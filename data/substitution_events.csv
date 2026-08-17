@@ -1,0 +1,78 @@
+event_date,functional_id,product_line,old_part_number,new_part_number,reason
+2022-09-01,FID-AL-01,PL-Alpha,AL01-1874-QA,AL01-3810-HF,Design change
+2023-04-01,FID-AL-01,PL-Alpha,AL01-3810-HF,AL01-7909-TR,Regulatory compliance
+2024-04-01,FID-AL-01,PL-Alpha,AL01-7909-TR,AL01-8489-XC,Regulatory compliance
+2023-12-01,FID-AL-02,PL-Alpha,AL02-5156-KA,AL02-7452-FN,EOL (supplier discontinued)
+2023-09-01,FID-AL-03,PL-Alpha,AL03-8140-AF,AL03-2535-QO,Cost reduction
+2024-07-01,FID-AL-04,PL-Alpha,AL04-2481-FP,AL04-5797-VA,EOL (supplier discontinued)
+2022-08-01,FID-AL-05,PL-Alpha,AL05-1727-US,AL05-4577-IE,Cost reduction
+2023-08-01,FID-AL-05,PL-Alpha,AL05-4577-IE,AL05-9757-YI,EOL (supplier discontinued)
+2022-09-01,FID-AL-06,PL-Alpha,AL06-3562-CC,AL06-6196-WP,Design change
+2023-09-01,FID-AL-06,PL-Alpha,AL06-6196-WP,AL06-2382-US,EOL (supplier discontinued)
+2022-11-01,FID-AL-07,PL-Alpha,AL07-5544-NZ,AL07-4297-JO,Supply shortage / emergency sub
+2023-06-01,FID-AL-08,PL-Alpha,AL08-6395-VQ,AL08-2252-WP,Regulatory compliance
+2024-08-01,FID-AL-08,PL-Alpha,AL08-2252-WP,AL08-9380-SB,EOL (supplier discontinued)
+2022-08-01,FID-AL-09,PL-Alpha,AL09-1397-FH,AL09-8911-CG,Supply shortage / emergency sub
+2023-07-01,FID-AL-09,PL-Alpha,AL09-8911-CG,AL09-7159-CH,Regulatory compliance
+2024-01-01,FID-AL-09,PL-Alpha,AL09-7159-CH,AL09-3554-QJ,EOL (supplier discontinued)
+2023-04-01,FID-AL-10,PL-Alpha,AL10-1825-JF,AL10-7931-GY,Regulatory compliance
+2023-12-01,FID-AL-10,PL-Alpha,AL10-7931-GY,AL10-2651-QP,Design change
+2024-08-01,FID-AL-10,PL-Alpha,AL10-2651-QP,AL10-4387-ES,Design change
+2023-02-01,FID-AL-11,PL-Alpha,AL11-8273-EJ,AL11-7629-ZQ,Regulatory compliance
+2024-07-01,FID-AL-11,PL-Alpha,AL11-7629-ZQ,AL11-6024-OR,EOL (supplier discontinued)
+2023-05-01,FID-AL-12,PL-Alpha,AL12-4532-VU,AL12-3957-FA,EOL (supplier discontinued)
+2023-12-01,FID-BE-01,PL-Beta,BE01-4781-IG,BE01-3767-FY,Design change
+2024-06-01,FID-BE-01,PL-Beta,BE01-3767-FY,BE01-2281-WI,Design change
+2024-02-01,FID-BE-02,PL-Beta,BE02-7418-RK,BE02-6912-XL,Supply shortage / emergency sub
+2022-10-01,FID-BE-03,PL-Beta,BE03-3716-GG,BE03-5079-OG,Supply shortage / emergency sub
+2023-08-01,FID-BE-03,PL-Beta,BE03-5079-OG,BE03-9667-PX,Regulatory compliance
+2022-12-01,FID-BE-04,PL-Beta,BE04-3812-KF,BE04-1427-ZN,Regulatory compliance
+2023-07-01,FID-BE-04,PL-Beta,BE04-1427-ZN,BE04-1458-CB,EOL (supplier discontinued)
+2022-05-01,FID-BE-05,PL-Beta,BE05-5798-CQ,BE05-6571-UK,Regulatory compliance
+2023-06-01,FID-BE-05,PL-Beta,BE05-6571-UK,BE05-5119-BJ,Supply shortage / emergency sub
+2024-03-01,FID-BE-05,PL-Beta,BE05-5119-BJ,BE05-2464-ZN,Regulatory compliance
+2024-01-01,FID-BE-06,PL-Beta,BE06-1454-ZW,BE06-5024-AS,Design change
+2022-07-01,FID-BE-07,PL-Beta,BE07-7294-RN,BE07-8789-GQ,Supply shortage / emergency sub
+2024-02-01,FID-BE-07,PL-Beta,BE07-8789-GQ,BE07-8749-CL,Design change
+2022-08-01,FID-BE-08,PL-Beta,BE08-3652-LY,BE08-3813-WG,Supply shortage / emergency sub
+2022-11-01,FID-BE-09,PL-Beta,BE09-3664-NE,BE09-2451-XW,EOL (supplier discontinued)
+2023-01-01,FID-BE-10,PL-Beta,BE10-1020-HQ,BE10-5973-PD,Regulatory compliance
+2023-11-01,FID-BE-11,PL-Beta,BE11-2181-TO,BE11-6899-UN,Supply shortage / emergency sub
+2024-07-01,FID-BE-12,PL-Beta,BE12-9802-AI,BE12-1188-AY,Supply shortage / emergency sub
+2023-07-01,FID-GA-01,PL-Gamma,GA01-3655-WV,GA01-7174-HB,Supply shortage / emergency sub
+2022-06-01,FID-GA-02,PL-Gamma,GA02-7639-WY,GA02-6287-CM,Cost reduction
+2023-04-01,FID-GA-02,PL-Gamma,GA02-6287-CM,GA02-3316-BT,Supply shortage / emergency sub
+2022-08-01,FID-GA-03,PL-Gamma,GA03-5053-TD,GA03-6076-MO,Supply shortage / emergency sub
+2023-07-01,FID-GA-03,PL-Gamma,GA03-6076-MO,GA03-6753-GW,Regulatory compliance
+2023-05-01,FID-GA-04,PL-Gamma,GA04-1397-LF,GA04-2889-OS,Design change
+2024-03-01,FID-GA-05,PL-Gamma,GA05-2633-FI,GA05-6375-ZQ,EOL (supplier discontinued)
+2022-08-01,FID-GA-06,PL-Gamma,GA06-2065-LN,GA06-8929-DF,Supply shortage / emergency sub
+2022-08-01,FID-GA-07,PL-Gamma,GA07-1042-IP,GA07-8511-FF,EOL (supplier discontinued)
+2024-02-01,FID-GA-07,PL-Gamma,GA07-8511-FF,GA07-9431-BQ,Supply shortage / emergency sub
+2023-02-01,FID-GA-08,PL-Gamma,GA08-9793-FX,GA08-1365-WB,Design change
+2023-11-01,FID-GA-08,PL-Gamma,GA08-1365-WB,GA08-3127-GR,EOL (supplier discontinued)
+2022-11-01,FID-GA-09,PL-Gamma,GA09-6499-FD,GA09-1457-YO,EOL (supplier discontinued)
+2023-08-01,FID-GA-09,PL-Gamma,GA09-1457-YO,GA09-6380-MU,Design change
+2024-08-01,FID-GA-09,PL-Gamma,GA09-6380-MU,GA09-9831-UE,Design change
+2022-12-01,FID-GA-10,PL-Gamma,GA10-3774-CL,GA10-4441-LM,EOL (supplier discontinued)
+2023-07-01,FID-GA-11,PL-Gamma,GA11-7415-SR,GA11-3026-ZC,Supply shortage / emergency sub
+2024-04-01,FID-GA-11,PL-Gamma,GA11-3026-ZC,GA11-2770-KI,EOL (supplier discontinued)
+2023-02-01,FID-GA-12,PL-Gamma,GA12-2871-WG,GA12-9077-EL,Supply shortage / emergency sub
+2024-05-01,FID-GA-12,PL-Gamma,GA12-9077-EL,GA12-5669-KH,Regulatory compliance
+2022-10-01,FID-DE-01,PL-Delta,DE01-4534-GY,DE01-9255-LW,Supply shortage / emergency sub
+2023-04-01,FID-DE-02,PL-Delta,DE02-3556-OB,DE02-5648-ZV,Supply shortage / emergency sub
+2023-10-01,FID-DE-02,PL-Delta,DE02-5648-ZV,DE02-8089-ZY,Cost reduction
+2023-02-01,FID-DE-03,PL-Delta,DE03-9741-WE,DE03-6206-MF,EOL (supplier discontinued)
+2022-11-01,FID-DE-04,PL-Delta,DE04-6596-KB,DE04-5006-JZ,Supply shortage / emergency sub
+2024-07-01,FID-DE-05,PL-Delta,DE05-9700-GU,DE05-2506-LK,Design change
+2023-07-01,FID-DE-06,PL-Delta,DE06-2144-YZ,DE06-4870-OS,EOL (supplier discontinued)
+2022-05-01,FID-DE-07,PL-Delta,DE07-5892-EH,DE07-6795-ZP,Supply shortage / emergency sub
+2023-02-01,FID-DE-07,PL-Delta,DE07-6795-ZP,DE07-3228-OT,Supply shortage / emergency sub
+2022-05-01,FID-DE-08,PL-Delta,DE08-2975-BP,DE08-7553-NW,Regulatory compliance
+2023-02-01,FID-DE-08,PL-Delta,DE08-7553-NW,DE08-5174-EY,Design change
+2024-08-01,FID-DE-08,PL-Delta,DE08-5174-EY,DE08-6337-CE,Supply shortage / emergency sub
+2023-03-01,FID-DE-09,PL-Delta,DE09-3957-PR,DE09-6861-GD,Supply shortage / emergency sub
+2022-06-01,FID-DE-10,PL-Delta,DE10-1816-XG,DE10-5929-PQ,Design change
+2023-12-01,FID-DE-11,PL-Delta,DE11-5397-KP,DE11-4073-NY,EOL (supplier discontinued)
+2024-08-01,FID-DE-11,PL-Delta,DE11-4073-NY,DE11-5740-FS,EOL (supplier discontinued)
+2023-11-01,FID-DE-12,PL-Delta,DE12-8192-GK,DE12-8224-RH,Supply shortage / emergency sub
