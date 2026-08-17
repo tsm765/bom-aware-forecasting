@@ -6,7 +6,7 @@ most exposed.
 
 **Live dashboard:** https://bom-dashboard-kppefwmkxfqcsr4lidpwgq.streamlit.app/
 
-Completed as a research project in Operations and Supply Network Analytics,
+Completed as a project in Operations and Supply Network Analytics course,
 University of Oulu.
 
 ---
@@ -126,7 +126,7 @@ seasonality at a 25.2% premium, referential integrity, and no gaps or nulls.
 ## Running it
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bom-aware-forecasting.git
+git clone https://github.com/tsm765/bom-aware-forecasting.git
 cd bom-aware-forecasting
 pip install -r requirements.txt
 streamlit run app.py
